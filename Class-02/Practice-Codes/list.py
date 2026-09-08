@@ -34,7 +34,10 @@ print(students[0][2])
 
 print("==============================")
 # list sLiCiNg
-
+print(numbers[1:3])
+print(numbers[:5:2])
+print(f"Reverse of 'number' "
+      f"list {numbers[::-1]}")
 
 print("==============================")
 # list iS muTaBlE
@@ -57,3 +60,4 @@ b[modify_index] = modify_value
 print(f"This is 'a' variable list {a}")
 print(f"This is 'b' variable list {b}")
 print("Only in 'b' list value has modified")
+
