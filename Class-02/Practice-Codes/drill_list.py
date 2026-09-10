@@ -60,4 +60,3 @@ b[modify_index] = modify_value
 print(f"This is 'a' variable list {a}")
 print(f"This is 'b' variable list {b}")
 print("Only in 'b' list value has modified")
-
